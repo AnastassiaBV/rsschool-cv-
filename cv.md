@@ -14,3 +14,9 @@ return (nRows - row) * (nCols - col + 1)
 
 }
 ________________________________________
+## Education:
+JavaScript https://learn.javascript.ru/
+
+________________________________________
+## Language:
+English - A2
