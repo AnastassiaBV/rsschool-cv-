@@ -7,3 +7,10 @@ ________________________________________
 ## About me:
 I want to learn Front-End Development in RSSchool. I am interested in Front-End development, because this profession provides great opportunities for professional growth.
 ________________________________________
+## Code examples:
+function seatsInTheater(nCols, nRows, col, row) {
+
+return (nRows - row) * (nCols - col + 1)
+
+}
+________________________________________
