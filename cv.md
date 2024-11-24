@@ -17,6 +17,8 @@ ________________________________________
 ## Education:
 JavaScript https://learn.javascript.ru/
 School of Business BSU
+htmllessons course 
+
 ________________________________________
 ## Language:
 English - A2
